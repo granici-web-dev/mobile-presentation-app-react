@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerLeft {
+  display: flex;
+  gap: 4.5rem;
+}
+
+.headerRight {
+  display: flex;
+  gap: 2.75rem;
+  align-items: center;
+}
